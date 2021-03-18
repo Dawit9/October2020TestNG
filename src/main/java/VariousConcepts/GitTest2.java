@@ -19,7 +19,14 @@ public class GitTest2 {
 	 
  public static void printMe2() {
 		 
-		 System.out.println("test git 1 ");
+		 
+		 System.out.println("test git 2");
 	}
+ public static void printMe3() {
+	 
+	 System.out.println("test git 1 ");
+	 System.out.println("test git 2");
+ }
 
 
+}
